@@ -5,7 +5,7 @@
 -- lib.page:
 
 -- lib.header:
-logo: $assets.files.assets.IMG_20210927_200302.jpg
+logo: $assets.files.assets.logo.jpg
 logo-text: Portfolio
 cta-text-1: Home
 cta-text-2: About
@@ -19,7 +19,7 @@ cta-button-1: Resume
 link-1: https://www.resume.com/
 cta-button-2: Schedule Meeting
 link-2: https://calendly.com/
-cover: $assets.files.assets.ape-1.jpg
+cover: $assets.files.assets.IMG_20210927_200302.jpg
 
 I am IT student at GEC Sreekrishnapuram.
 
